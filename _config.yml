@@ -19,9 +19,9 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "laxdin24 Blog"
 title_separator          : "-"
-subtitle                 : "test subtitle" # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "하나씩 쌓는곳" # site tagline that appears below site title in masthead
+name                     : "배용석"
+description              : "개발을 하고싶어서 하나씩 쌓는곳"
 url                      : "https://yongsuk204.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yongsuk204/yongsuk204.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "배용석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "1인개발을 꿈꾸는 개발자"
+  bio              : "1인개발을 꿈꾸는"
   location         : "Somewhere"
   email            :
   links:
