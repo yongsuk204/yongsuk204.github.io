@@ -19,6 +19,8 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "laxdin24 Blog"
 title_separator          : "-"
+future                   : true # true, false (default)
+published                : true
 subtitle                 : "하나씩 쌓는곳" # site tagline that appears below site title in masthead
 name                     : "배용석"
 description              : "개발을 하고싶어서 하나씩 쌓는곳"
